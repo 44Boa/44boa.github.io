@@ -1,9 +1,9 @@
-### Adiel Jan P. Viray 👋
+### 44boa.github.io
 
 <!--
-**44Boa/p
+**44Boa/44Boa
 ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+44boa
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
