@@ -1,4 +1,4 @@
-### 44boa.github.io
+# 44boa.github.io
 Adiel Jan Viray
 
 # Hello Bobola
@@ -11,3 +11,6 @@ A list of my favorite anime:
 3. Dr. Stone
 4. The Daily Life Of The Immortal King
 5. Spy x Family
+
+'I am <b>an Otaku</b>
+['Watch Anime Here'](https://animepahe.com/)
