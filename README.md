@@ -15,6 +15,9 @@ A list of my favorite anime:
 'I am <b>an Otaku</b>
 ['Watch Anime Here'](https://animepahe.com/)
 
+![pngtree-pet-cartoon-pet-dog-cartoon-expression-crying-cartoon-expression-png-image_461884](https://user-images.githubusercontent.com/122240824/212256431-da4a9575-e876-422d-b535-8adbcfddd7d6.jpg)
+
+
 How Many Episodes Does My Favorite Anime Have
 | Anime           |     COTE      |    Chainsaw Man   |     Dr. Stone     |   The Daily Life Of The Immortal King   |      Spy X Family   |
 | ----------------| ------------- |-------------------|-------------------|-----------------------------------------|---------------------|
