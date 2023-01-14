@@ -18,10 +18,10 @@ A list of my favorite anime:
 ![1jr2hg](https://user-images.githubusercontent.com/122240824/212256729-18639d66-ebab-4ffc-a27f-f76388c7f6ec.jpg)
 
 How Many Episodes Does My Favorite Anime Have
-| Anime           |     COTE      |    Chainsaw Man   |     Dr. Stone     |   The Daily Life Of The Immortal King   |      Spy X Family   |
-| ----------------| ------------- |-------------------|-------------------|-----------------------------------------|---------------------|
-| Seasons         |       2       |         1         |         2         |                   3                     |          2          |
-| Total Episode   |      25       |         12        |         35        |                   39                    |          25         |
+| Anime           |     COTE      |    Chainsaw Man   |     Dr. Stone     |   TDLOTIK  |    Spy X Family     |
+| ----------------| ------------- |-------------------|-------------------|------------|---------------------|
+| Seasons         |       2       |         1         |         2         |      3     |          2          |
+| Total Episode   |      25       |         12        |         35        |     39     |          25         |
 
 
 
