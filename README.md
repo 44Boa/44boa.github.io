@@ -8,9 +8,11 @@ Adiel Jan Viray
 A list of my favorite anime:
 1. Classroom Of The Elite
 2. Chainsaw Man
-3. Dr. Stone
-4. The Daily Life Of The Immortal King
-5. Spy x Family
+3. Blue Lock
+4. Dr. Stone
+5. The Daily Life Of The Immortal King
+6. Spy x Family
+
 
 'I am <b>an Otaku</b>
 ['Watch Anime Here'](https://animepahe.com/)
@@ -22,10 +24,10 @@ A list of my favorite anime:
 
 How Many Episodes Does My Favorite Anime Have
 
-|   Anime         |     COTE      |    Chainsaw Man   |     Dr. Stone     |   TDLOTIK  |    Spy X Family     |
-|-----------------|---------------|-------------------|-------------------|------------|---------------------|
-| Seasons         |       2       |         1         |         2         |      3     |          2          |
-| Total Episode   |      25       |         12        |         35        |     39     |          25         |
+|   Anime         |     COTE      |    Chainsaw Man   |     Blue Lock     |     Dr. Stone    |   TDLOTIK  |    Spy X Family     |    
+|-----------------|---------------|-------------------|-------------------|------------------|------------|---------------------|
+| Seasons         |       2       |         1         |        1          |        2         |      3     |          2          |
+| Total Episode   |      25       |         12        |       25          |        35        |     39     |          25         |
 
 
 
